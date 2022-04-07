@@ -1,1 +1,6 @@
+# MIST AIContents Dept.
 # 2022_MIST_AfterSchoolClass
+## python class meterial
+### forked from [teddylee777/machine-learning](https://github.com/teddylee777/machine-learning)
+## DeepLearning class meterial
+### forked from [rickiepark/do-it-dl](https://github.com/rickiepark/do-it-dl)
