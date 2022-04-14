@@ -163,11 +163,11 @@ As Grace Hopper said:
 ### Syntax 마크다운 사용법
 	![alt 토마토](/img/tomato.jpg)
   	![alt man](/img/man_laptop.jpg)
-	![alt Concrete Buildings](https://github.com/jinkyukim-me/markdown_ko/blob/master/img/concrete_building.jpg)
+	![alt Concrete Buildings](https://github.com/sewoony/2022_MIST_AfterSchoolClass/Markdown_Tip/img/concrete_building.jpg)
 ### Demonstration 실행결과
 ![alt 토마토](/img/tomato.jpg)
 ![alt man](/img/man_laptop.jpg)
-![alt Concrete Buildings](https://github.com/jinkyukim-me/markdown_ko/blob/master/img/concrete_building.jpg)
+![alt Concrete Buildings](https://github.com/sewoony/2022_MIST_AfterSchoolClass/Markdown_Tip/img/concrete_building.jpg)
 
 ## 7. Links (Anchor) 링크
 ## 7.1. External Links 외부 링크
